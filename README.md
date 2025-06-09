@@ -1,4 +1,4 @@
-# Asistente-Virtual-con-Mchine-Learning
+# Asistente-Virtual-con-Machine-Learning
 Trabajo de la asignatura Inteligencia Artificial
 
 Trabajo de Oscar Etcheverry (5647110) y Derlis Delgado (5805739)
