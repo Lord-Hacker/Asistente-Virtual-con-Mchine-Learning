@@ -1,5 +1,6 @@
 # Asistente-Virtual-con-Mchine-Learning
 Trabajo de la asignatura Inteligencia Artificial
+
 Trabajo de Oscar Etcheverry (5647110) y Derlis Delgado (5805739)
 Link de la presentación:
 https://view.genially.com/6841a0be6f01956893bb2051/presentation-asistente-virtual-de-entrenamiento-de-deadlift-con-machinelearning
